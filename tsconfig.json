@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "lib":["ESNext"],
+    "target":"ESNext",
+    "module":"ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": false,
+    "emitDeclarationOnly": false,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "types": ["lua-types/5.1"]
+  },
+  "tstl": {
+    "noHeader": true,
+    "noImplicitSelf": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src"
+  ]
+}

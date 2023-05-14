@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Konijima/pzpw-config-schema/master/pzpw-config.schema.json",
+  "mods": {
+    "death-thunder": {
+      "name": "Valhalla's Thunderous Betrayal",
+      "description": "With Valhalla's Thunderous Betrayal, every battle you engage in has divine consequences. Choose your actions wisely, for the wrath of the gods may just be upon you!"
+    }
+  },
+  "workshop": {
+    "id": 2975603117,
+    "title": "Valhalla's Thunderous Betrayal",
+    "visibility": "public",
+    "mods": [
+      "death-thunder"
+    ],
+    "tags": [
+      "Build 41"
+    ],
+    "author": [
+      "Konijima"
+    ]
+  }
+}

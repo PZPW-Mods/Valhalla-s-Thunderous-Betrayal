@@ -1,0 +1,27 @@
+VERSION = 1,
+
+option DeathThunder.PvP_Exclusive_Mode
+{
+	type = boolean,
+	default = true,
+	page = DeathThunder,
+	translation = DeathThunder_PvP_Exclusive_Mode,
+}
+
+option DeathThunder.Faction_Friendly_Fire
+{
+	type = boolean,
+	default = true,
+	page = DeathThunder,
+	translation = DeathThunder_Faction_Friendly_Fire,
+}
+
+option DeathThunder.Zombie_Attraction_Radius
+{
+    type = integer,
+    min = 0,
+    max = 100,
+    default = 30,
+    page = DeathThunder,
+    translation = DeathThunder_Zombie_Attraction_Radius,
+} 

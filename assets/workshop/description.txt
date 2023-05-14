@@ -1,0 +1,35 @@
+[h1]Valhalla's Thunderous Betrayal[/h1]
+
+Experience a unique blend of survival, strategy, and divine intervention in the Valhalla's Thunderous Betrayal mod. This mod introduces the all-new 'God's Wrath' effect, adding a thrilling twist to the dynamics of player interactions and consequences within the game.
+
+[h2]Key Features[/h2]
+
+[b]PvP Exclusive Mode[/b]
+This feature takes player conflicts to a whole new level. Once enabled, 'God's Wrath' only triggers in the event of player vs. player (PvP) combat. All other types of death will not result in the wrathful effect, adding a tactical layer to PvP engagements.
+
+[b]Faction-Friendly Fire[/b]
+Ignite the spark of internal conflicts within factions. With this setting enabled, the 'God's Wrath' effect can be triggered when a player kills a member of their own faction. It's a test of loyalty and an opportunity to strategize - or betray.
+
+[b]Zombie Attraction Radius[/b]
+Set the stakes higher with each fallen player. This setting determines the range within which zombies are lured to the site of a player's demise. Adjust the radius as per your preference, or disable it completely by setting the value to '0'.
+
+With Valhalla's Thunderous Betrayal, every battle you engage in has divine consequences. Choose your actions wisely, for the wrath of the gods may just be upon you!
+
+[quote=Konijima]
+Mod by [b]Konijima[/b]
+Commissioned by [b]Fantasmado[/b]
+[/quote]
+
+[quote=Fantasmado]
+Server: [b]Project Zomboid Valhalla[/b]
+Discord: https://discord.gg/JGNxjAB5Hx
+We are a Brazilian server that mixes PVE, PVP and a little bit of RP. We hold exclusive events based on Viking mythology and RPG games.
+[/quote]
+
+[h1]Hire Team Orbit for Custom Mod Commission[/h1]
+
+[url=https://discord.gg/2skchrKrDv][img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/square_serve.gif[/img][/url]
+[h1]Click the banners[/h1]
+[url=https://steamcommunity.com/id/glytch3r/myworkshopfiles/?section=collections&appid=108600]
+[img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/workshop.png[/img]
+[/url]

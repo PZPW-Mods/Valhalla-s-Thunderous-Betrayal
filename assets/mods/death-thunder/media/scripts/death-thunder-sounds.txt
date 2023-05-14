@@ -1,0 +1,26 @@
+module DeathThunder
+{
+    sound DeathThunderVictim
+    {
+        category = Effect, 
+        loop = false, 
+        is3D = true,
+        clip { file = media/sound/DeathThunderVictim.ogg, distanceMax = 1000, volume = 1 }
+    },
+
+    sound DeathThunderKiller
+    {
+        category = Effect, 
+        loop = false, 
+        is3D = true,
+        clip { file = media/sound/DeathThunderKiller.ogg, distanceMax = 1000, volume = 1 }
+    },
+
+    sound DeathThunderStrike
+    {
+        category = Effect, 
+        loop = false, 
+        is3D = true,
+        clip { file = media/sound/DeathThunderStrike.ogg, distanceMax = 1000, volume = 1 }
+    }
+}

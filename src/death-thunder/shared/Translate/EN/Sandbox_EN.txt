@@ -1,0 +1,12 @@
+Sandbox_EN = {
+    Sandbox_DeathThunder = "Valhalla's Thunderous Betrayal",
+
+    Sandbox_DeathThunder_PvP_Exclusive_Mode = "PvP Exclusive Mode",
+    Sandbox_DeathThunder_PvP_Exclusive_Mode_tooltip = "If enabled, the 'God's Wrath' effect will only be triggered by player vs. player (PvP) combat. All other forms of death will not activate the effect.",
+
+    Sandbox_DeathThunder_Faction_Friendly_Fire = "Faction-Friendly Fire",
+    Sandbox_DeathThunder_Faction_Friendly_Fire_tooltip = "If this setting is enabled, the 'God's Wrath' effect can be triggered when a player kills a member of their own faction.",
+
+    Sandbox_DeathThunder_Zombie_Attraction_Radius = "Zombie Attraction Radius",
+    Sandbox_DeathThunder_Zombie_Attraction_Radius_tooltip = "This setting determines the range within which zombies are drawn to the location of a player's death. Setting this value to '0' will disable the zombie attraction effect.",
+}
