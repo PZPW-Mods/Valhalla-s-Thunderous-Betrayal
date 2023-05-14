@@ -3,15 +3,15 @@
 
 <br>
 
-# Death Thunder
+# Valhalla's Thunderous Betrayal
 
 ## Description
-No description yet...
+With Valhalla's Thunderous Betrayal, every battle you engage in has divine consequences. Choose your actions wisely, for the wrath of the gods may just be upon you!
 
 <br>
 
 Mod ID: death-thunder
-Workshop ID: 
+Workshop ID: 2975603117
 
 <br>
 
